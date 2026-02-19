@@ -1,0 +1,22 @@
+baseURL = "https://hexagonally-mired.github.io/"
+languageCode = "en-us"
+title = "Mihir's Blog"
+theme = "PaperMod"
+description = "A clean Hugo blog powered by PaperMod"
+enableRSS = true
+
+[pagination]
+pagerSize = 10
+
+[markup.highlight]
+noClasses = false
+style = "monokai"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+author = "Mihir P"
+showReadingTime = true
+disableDarkModeToggle = false
