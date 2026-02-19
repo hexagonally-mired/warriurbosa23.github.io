@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mihir&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://WarriUrbosa23.github.io/</link>
     <description>Recent content on Mihir&#39;s Blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2026 12:41:01 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://WarriUrbosa23.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post</title>
-      <link>http://localhost:1313/posts/post/</link>
+      <link>https://WarriUrbosa23.github.io/posts/post/</link>
       <pubDate>Thu, 19 Feb 2026 12:41:01 -0800</pubDate>
-      <guid>http://localhost:1313/posts/post/</guid>
+      <guid>https://WarriUrbosa23.github.io/posts/post/</guid>
       <description>&lt;p&gt;Another post!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Green, John: The Anthropocene Reviewed:</title>
-      <link>http://localhost:1313/books/books/the-anthropocene-reviewed/</link>
+      <link>https://WarriUrbosa23.github.io/books/books/the-anthropocene-reviewed/</link>
       <pubDate>Thu, 19 Feb 2026 12:23:07 -0800</pubDate>
-      <guid>http://localhost:1313/books/books/the-anthropocene-reviewed/</guid>
+      <guid>https://WarriUrbosa23.github.io/books/books/the-anthropocene-reviewed/</guid>
       <description>&lt;p&gt;On humans and lemmings:&lt;/p&gt;
 &lt;p&gt;“Trial thought experiment (The word trial is used here because I have 100% certainty that nobody on Earth has ever seen this account.): I&amp;rsquo;m going to highlight this phrase(call me french, i darest thou) that so evidently corroborates our opinion of humanity. Nobody that sees this, or the quote causing it, will get triggered (to those living in the world of parentheses and semantics i say, shut up.), because we are so convinced that humanity is horrific and irredeemable. To you, I say, shut up (as well). Humanity is redeemable. Go redeem it. Heck, that could be our new slogan. Redeem us, or go extinct&lt;/p&gt;</description>
     </item>
