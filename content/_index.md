@@ -4,9 +4,9 @@ draft = false
 title = 'Home'
 +++
 
-Welcome to my blog!
+Hello! You're looking at something mildly interesting, I hope.
 
-Check out my sections:
+Check out my sections, not up to date yet:
 
 - [Posts](/posts/)
 - [Books](/books/)
