@@ -1,26 +1,31 @@
-name: Build and Deploy Hugo site
+name: Build and Deploy Hugo Site
 
 on:
   push:
     branches:
-      - main   # or your default branch
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed for pushing to Pages
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # gets your Hugo theme
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.118.3" # or your Hugo version
+          hugo-version: 'latest'
 
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v5
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
