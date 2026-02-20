@@ -23,10 +23,6 @@ git push
 
 `git submodule update --init --recursive`
 
-
-
-
-
-
-
 I hate vibecoding
+
+### Never Have Spaces In Images
