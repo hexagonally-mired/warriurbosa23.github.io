@@ -6,7 +6,7 @@ title = 'Hello, Grace!'
 
 Hi, Grace!
 
-### February 20, 2026:
+### February 21, 2026:
 
 Hey Grace. Could you tell that the smile in that picture I sent you that one time is actually *RED*?? I had no idea until I went there again a few weeks later :o
 
