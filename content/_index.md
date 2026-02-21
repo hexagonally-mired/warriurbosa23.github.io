@@ -21,4 +21,6 @@ Below are my sections, which are not up to date yet:
 - [Unselected](/unselected/)
 - [Newpress](/newpress/)
 
+Also here's a rabbit: ![a rabbit](/images/Dino-Bunny.jpg)
+
 ### Below this point, you might see a random post. I don't know the significance of why any post shows up at any time, but nonetheless, it's there, not just for you, but for me too.
