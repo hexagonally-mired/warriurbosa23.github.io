@@ -5,6 +5,8 @@ title = 'The Anthropocene Reviewed'
 type = "books"
 +++
 
+### My notes on John Green's *The Anthropocene Reviewed*
+
 On humans and lemmings:
 
 “Trial thought experiment (The word trial is used here because I have 100% certainty that nobody on Earth has ever seen this account.): I'm going to highlight this phrase(call me french, i darest thou) that so evidently corroborates our opinion of humanity. Nobody that sees this, or the quote causing it, will get triggered (to those living in the world of parentheses and semantics i say, shut up.), because we are so convinced that humanity is horrific and irredeemable. To you, I say, shut up (as well). Humanity is redeemable. Go redeem it. Heck, that could be our new slogan. Redeem us, or go extinct
