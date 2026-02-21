@@ -20,3 +20,4 @@ tag = "tags"
 author = "Mihir P."
 showReadingTime = true
 disableDarkModeToggle = false
+favicon = "favicon.ico"
