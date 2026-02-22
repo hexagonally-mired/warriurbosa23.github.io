@@ -24,13 +24,13 @@ Cold and still nervous
 
 Because without the broken camera of another soul
 
-I’ve become poised to become lost in my own fishbowl
+I’ve become poised to be lost in my own fishbowl
 
 Human interaction as a scoreboard is a cold,
 
 empty, unrealistic reality
 
-Then someone comes, and gives me their souls little memory card
+Then someone comes, and gives me their soul's little memory card
 
 I steel myself to look at it,
 
